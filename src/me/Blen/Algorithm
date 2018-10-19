@@ -1,0 +1,21 @@
+Input-
+from user
+- name 
+- email 
+- phone number
+- 0 or more educational achievements
+- 0 or more experiences 
+- 0 or more skills with Competency Proficiency rating(Fundamental, Novice, Intermediate, Advanced, Expert)
+
+Process
+1. prompt the user to enter name 
+                            - email 
+                            - phone number
+                            - 0 or more educational achievements
+                            - 0 or more experiences 
+                            - 0 or more skills with Competency Proficiency rating(Fundamental, Novice, Intermediate, Advanced, Expert)
+2. Store what the info the user enters one by one
+3. show the resume to the user
+                            
+
+ 
